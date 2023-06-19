@@ -1,0 +1,78 @@
+body{
+    
+}
+h1,h2{
+    
+    text-align: center;
+    
+}
+.all{
+    background-color: #FFF6F2;
+
+}
+
+div{
+   
+    margin:auto;
+    max-width: 650px;
+
+
+}
+.container{
+    
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 100fr 1fr;
+    column-gap: 10px;
+    margin-top:-1px;
+   
+}
+
+.Description{
+    
+   
+   
+   
+   margin-left: 5px;
+   
+   
+    
+}
+.image{
+    
+    padding-left: 15px;
+   
+    
+    
+    
+    
+    
+    
+    
+}
+.author{
+    margin-top: -20px;
+    font-size: 12px;
+}
+
+.tittle{
+    padding-top: 10px;
+}
+
+.Breed{
+    text-align: center;
+    font-size: 20px;
+    
+    margin-top: -2px;
+
+    font-family: Bodoni MT;
+    
+    
+}
+
+.adoption{
+
+text-align: center;
+font-size: 14px;
+padding-bottom: 5px;
+}
